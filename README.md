@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raihan Ramadhan</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [notion-clone](https://github.com/raihan-ramadhan/notion-clone)
+- 🔭 I’m currently creating project [notion-clone](https://github.com/raihan-ramadhan/notion-clone)
 
 - 🌱 I’m currently learning **Prisma**
 
