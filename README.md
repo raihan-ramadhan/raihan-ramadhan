@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raihan Ramadhan</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Prisma**
+- 🌱 I’m currently learning **Socket.io**
 
 - 📫 How to reach me **raihanramadhan.rn22@gmail.com**
 
