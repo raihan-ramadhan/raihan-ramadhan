@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raihan Ramadhan</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
-- 🌱 I’m currently build my Project SESI
+- 🌱 I’m currently learning turborepo to handle my next js and expo apps
 
 - 📫 How to reach me **raihanramadhan.rn22@gmail.com**
 
