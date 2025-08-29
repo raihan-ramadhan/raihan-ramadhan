@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raihan Ramadhan</h1>
-<h3 align="center">A passionate editor engineer | fullstack developer from Indonesia</h3>
+<h3 align="center">A passionate Tiptap editor engineer | fullstack developer from Indonesia</h3>
 
 - 🌱 I’m currently learning turborepo to handle my next js and tiptap apps
 
